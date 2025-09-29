@@ -1,0 +1,113 @@
+export type SkillCategory = {
+  name: string;
+  items: string[];
+};
+
+export const skillCategories: SkillCategory[] = [
+  {
+    name: "Blockchain",
+    items: [
+      "Hardhat",
+      "Ethers",
+      "Truffle",
+      "Solidity",
+      "Rust",
+      "Ethereum",
+      "Infura",
+      "Moralis",
+      "Polygon",
+      "Substrate",
+      "Web3",
+      "Polkadot",
+      "Viem",
+      "Wagmi",
+      "Privy",
+      "Web3Auth",
+    ],
+  },
+  {
+    name: "Frontend",
+    items: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Redux",
+      "Redux-Thunk",
+      "Redux-Saga",
+      "PWA",
+      "D3.js",
+      "Recharts",
+      "Tailwind CSS",
+      "Material-UI",
+      "Ant Design",
+      "Bootstrap",
+      "Jest",
+      "Cypress",
+      "Chai",
+      "Mocha",
+      "A/B Testing",
+      "Rollup",
+      "ESBuild",
+      "Vitest",
+      "React Native",
+      "Three.js",
+    ],
+  },
+  {
+    name: "Backend",
+    items: [
+      "Node.js",
+      "Express",
+      "Fastify",
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL",
+      "Firebase",
+      "REST API",
+      "GraphQL",
+      "WebSockets",
+      "SQL",
+      "Python",
+      "Java",
+      "DSA",
+    ],
+  },
+  {
+    name: "Version Control",
+    items: ["GitHub", "GitLab"],
+  },
+  {
+    name: "Cloud",
+    items: ["Netlify", "Vercel", "Azure", "GCP", "AWS"],
+  },
+  {
+    name: "Product & Tools",
+    items: [
+      "Notion",
+      "Agile",
+      "GitBook",
+      "Archbee",
+      "Docusaurus",
+      "Asana",
+      "Slab",
+      "Docker",
+      "CMS",
+    ],
+  },
+  {
+    name: "Soft Skills",
+    items: [
+      "Debugging",
+      "Teamwork",
+      "Problem Solving",
+      "Time Management",
+      "Remote Work",
+      "Online Collaboration",
+    ],
+  },
+];
+
+
