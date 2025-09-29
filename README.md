@@ -4,11 +4,18 @@ A cutting-edge, interactive portfolio built with Next.js, Three.js, and Web3 tec
 
 ## 🌐 Live Demo
 
-**🔗 Production URL:** https://futuristic-portfolio-95wld9im6-rohanranjan25061996s-projects.vercel.app
+**🔗 Production URL:** https://futuristic-portfolio-six.vercel.app
 
 ![QR Code](portfolio-qr.png)
 
 **📱 Scan with your phone to visit the portfolio instantly!**
+
+> 🎉 **Live Portfolio Features:**
+> - ✅ AI Assistant with resume knowledge
+> - ✅ Interactive 3D games (Skill Tower & Skill Runner)
+> - ✅ Web3 wallet integration
+> - ✅ Responsive design for all devices
+> - ✅ Real-time animations and effects
 
 ## ✨ Features
 
