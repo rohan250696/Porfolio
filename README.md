@@ -210,7 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Rohan Ranjan**
 - **GitHub**: [@rohan250696](https://github.com/rohan250696)
 - **LinkedIn**: [rohanranjan96](https://www.linkedin.com/in/rohanranjan96/)
-- **Portfolio**: [Live Demo](https://futuristic-portfolio-95wld9im6-rohanranjan25061996s-projects.vercel.app)
+- **Portfolio**: [Live Demo](https://futuristic-portfolio-six.vercel.app)
 
 ---
 
